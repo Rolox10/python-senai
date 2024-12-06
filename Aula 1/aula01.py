@@ -1,0 +1,6 @@
+print('hello world')
+print('bom dia a todes')
+print('tyler herro é o melhor jogador da história')
+print('mãe tem café ?')
+print('eu bem que te avisei')
+print('pra não levar a seriooooo')
